@@ -6,16 +6,10 @@
 _1809x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/07/windows10.0-kb5015811-x64_f850429a022ae53bcebad5e99369adff8b663489.msu
 
 
-
-
-
-
 ;   !!!   
 ; 2022-适用于 Windows 10 Version 21H2 的 07 累积更新，适合基于 x86 的系统 
 
 _21H2x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/07/windows10.0-kb5015807-x86_f8b27df705faab3fe1deafe9fedeed8b9c7e2e6a.msu
-
-
 
 
 
